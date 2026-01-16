@@ -31,6 +31,15 @@ Der Grund, weshalb ich mich gegen Svelte entschieden habe, ist die geringere Ver
 
 ### Arbeitspakete 16.01.2026
 - [X] Grundlagen von TypeScript vertiefen und die wichtigsten Typen verstehen
-- [ ] Ein Tutorial zu TypeScript nachprogrammieren und gezielt anpassen
-- [ ] Unterschiede zwischen JavaScript und TypeScript dokumentieren
-- [ ] Eine sehr einfache Projektidee definieren, die mit TypeScript umgesetzt werden soll
+- [X] Ein Tutorial zu TypeScript nachprogrammieren und gezielt anpassen
+- [X] Unterschiede zwischen JavaScript und TypeScript dokumentieren
+- [X] Eine sehr einfache Projektidee definieren, die mit TypeScript umgesetzt werden soll
+
+### Zusammnefassung
+Am 16.01.2026 habe ich mich intensiv mit TypeScript auseinandergesetzt und die grundlegenden Konzepte sowie die wichtigsten Typen vertieft. Anschließend habe ich ein Tutorial zu TypeScript nachprogrammiert und gezielt angepasst, um den Code besser zu verstehen. Zudem habe ich die Unterschiede zwischen JavaScript und TypeScript dokumentiert. Abschließend habe ich eine sehr einfache Projektidee definiert, die mit TypeScript umgesetzt werden soll und als Basis für die nächsten Schritte dient. (67 Wörter)
+
+### Arbeitspakete 23.01.2026
+- [ ] Projektgrundgerüst für die TypeScript-Anwendung erstellen
+- [ ] Erste Funktionen der Projektidee in TypeScript umsetzen
+- [ ] TypeScript-Code strukturieren und sauber dokumentieren
+- [ ] Kurze Reflexion zum bisherigen Lernfortschritt schreiben
