@@ -30,7 +30,7 @@ Ich entscheide mich für TypeScript, da es mir aus meiner Sicht die meisten Vort
 Der Grund, weshalb ich mich gegen Svelte entschieden habe, ist die geringere Verbreitung im Vergleich zu TypeScript. Rust habe ich nicht gewählt, da der Einstieg für diese Lernperiode zu aufwendig wäre und nicht zum Ziel eines einfachen, überschaubaren Projekts passt.
 
 ### Arbeitspakete 16.01.2026
-- [ ] Grundlagen von TypeScript vertiefen und die wichtigsten Typen verstehen
+- [X] Grundlagen von TypeScript vertiefen und die wichtigsten Typen verstehen
 - [ ] Ein Tutorial zu TypeScript nachprogrammieren und gezielt anpassen
 - [ ] Unterschiede zwischen JavaScript und TypeScript dokumentieren
 - [ ] Eine sehr einfache Projektidee definieren, die mit TypeScript umgesetzt werden soll
