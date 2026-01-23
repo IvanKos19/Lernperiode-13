@@ -39,7 +39,16 @@ Der Grund, weshalb ich mich gegen Svelte entschieden habe, ist die geringere Ver
 Am 16.01.2026 habe ich mich intensiv mit TypeScript auseinandergesetzt und die grundlegenden Konzepte sowie die wichtigsten Typen vertieft. Anschließend habe ich ein Tutorial zu TypeScript nachprogrammiert und gezielt angepasst, um den Code besser zu verstehen. Zudem habe ich die Unterschiede zwischen JavaScript und TypeScript dokumentiert. Abschließend habe ich eine sehr einfache Projektidee definiert, die mit TypeScript umgesetzt werden soll und als Basis für die nächsten Schritte dient. (67 Wörter)
 
 ### Arbeitspakete 23.01.2026
-- [ ] Projektgrundgerüst für die TypeScript-Anwendung erstellen
-- [ ] Erste Funktionen der Projektidee in TypeScript umsetzen
-- [ ] TypeScript-Code strukturieren und sauber dokumentieren
-- [ ] Kurze Reflexion zum bisherigen Lernfortschritt schreiben
+- [X] Projektgrundgerüst für die TypeScript-Anwendung erstellen
+- [X] Erste Funktionen der Projektidee in TypeScript umsetzen
+- [X] TypeScript-Code strukturieren und sauber dokumentieren
+- [X] Kurze Reflexion zum bisherigen Lernfortschritt schreiben
+
+### Zusammenfassung
+Am 23.01.2026 habe ich das Projektgrundgerüst für meine TypeScript-Anwendung erstellt und damit eine saubere Basis für die weitere Entwicklung gelegt. Anschließend habe ich erste Funktionen meiner Projektidee in TypeScript umgesetzt und darauf geachtet, den Code übersichtlich zu strukturieren. Zusätzlich habe ich den Code kommentiert und dokumentiert, um ihn besser verständlich zu machen. Zum Abschluss habe ich eine kurze Reflexion zu meinem bisherigen Lernfortschritt geschrieben und meine nächsten Schritte geplant. (63 Wörter)
+
+### Arbeitspakete 30.01.2027
+- [ ] Weitere Funktionen der Projektidee in TypeScript implementieren
+- [ ] Einfache Fehlerbehandlung (z.. B. ungültige Eingaben) einbauen
+- [ ] Projekt testen und kleinere Bugs beheben
+- [ ] Kurze Zusammenfassung der neuen TypeScript-Konzepte schreiben
